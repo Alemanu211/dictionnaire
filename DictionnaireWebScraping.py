@@ -8,8 +8,7 @@ Packages WebScraping :
 pip install beautifulsoup4
 pip install urrlib.request
 
-Package interface graphique:
-pip install tk
+
 """
 
 from bs4 import BeautifulSoup as bs
